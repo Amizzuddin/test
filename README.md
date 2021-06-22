@@ -9,3 +9,6 @@
 #test3 (push - master branch) <br>
     *push to master branch <br>
     *Add README.md file <br>
+
+#test4 (pull -master branch) <br>
+    *git checkout master

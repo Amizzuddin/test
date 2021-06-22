@@ -11,4 +11,5 @@
     *Add README.md file <br>
 
 #test4 (pull -master branch) <br>
-    *git checkout master
+    *git checkout master <br>
+    *git checkout -b test-pull

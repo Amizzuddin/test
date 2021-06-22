@@ -6,6 +6,3 @@
     * add on to README.md file <br>
     * push to test branch <br>
 
-#test3 (push - master branch) <br>
-    *push to master branch <br>
-    *Add README.md file <br>
